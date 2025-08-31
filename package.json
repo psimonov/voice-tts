@@ -2,6 +2,23 @@
   "name": "voice-tts",
   "version": "1.0.0",
   "description": "Universal Text-to-Speech voice management library",
+  "author": "Pavel Simonov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psimonov/voice-tts.git"
+  },
+  "homepage": "https://github.com/psimonov",
+  "bugs": {
+    "url": "https://github.com/psimonov/voice-tts/issues"
+  },
+  "keywords": [
+    "text-to-speech",
+    "tts",
+    "speech-synthesis",
+    "voice",
+    "web-speech-api"
+  ],
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
@@ -15,23 +32,6 @@
   "files": [
     "dist"
   ],
-  "keywords": [
-    "text-to-speech",
-    "tts",
-    "speech-synthesis",
-    "voice",
-    "web-speech-api"
-  ],
-  "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "homepage": "",
-  "bugs": {
-    "url": ""
-  },
   "type": "module",
   "scripts": {
     "build": "bun run build:types && bun run build:cjs && bun run build:esm",

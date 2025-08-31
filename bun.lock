@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "rsbuild-vanilla-ts",
+      "name": "voice-tts",
       "devDependencies": {
         "@biomejs/biome": "2.2.2",
         "@rsbuild/core": "^1.4.13",
