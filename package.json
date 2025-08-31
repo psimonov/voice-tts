@@ -1,0 +1,59 @@
+{
+  "name": "voice-tts",
+  "version": "1.0.0",
+  "description": "Universal Text-to-Speech voice management library",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js",
+      "types": "./dist/types/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "text-to-speech",
+    "tts",
+    "speech-synthesis",
+    "voice",
+    "web-speech-api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "type": "module",
+  "scripts": {
+    "build": "bun run build:types && bun run build:cjs && bun run build:esm",
+    "build:types": "tsc --project tsconfig.build.json",
+    "build:cjs": "tsc --project tsconfig.cjs.json",
+    "build:esm": "tsc --project tsconfig.esm.json",
+    "dev": "rsbuild dev --open",
+    "preview": "rsbuild preview",
+    "check": "biome check --write",
+    "format": "biome format --write",
+    "prepublishOnly": "bun run build",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.2",
+    "@rsbuild/core": "^1.4.13",
+    "@types/node": "^24.3.0",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.9.2"
+  },
+  "peerDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

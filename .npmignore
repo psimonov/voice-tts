@@ -1,0 +1,32 @@
+# Source files
+src/
+tsconfig*.json
+
+# Build configs
+rsbuild*.config.ts
+
+# Development files
+.biome.json
+biome.json
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build outputs (will be included via package.json files field)
+# dist/ is explicitly included in package.json 
