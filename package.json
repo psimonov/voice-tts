@@ -1,6 +1,6 @@
 {
   "name": "voice-tts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal Text-to-Speech voice management library",
   "author": "Pavel Simonov",
   "license": "MIT",
