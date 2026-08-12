@@ -10,7 +10,7 @@
 
 ## परिचय
 
-Voice TTS वेब अनुप्रयोगों के लिए `window.speechSynthesis` का संक्षिप्त और टाइप-सुरक्षित आवरण प्रदान करता है।
+Voice TTS npm पर [`voice-tts`](https://www.npmjs.com/package/voice-tts) नाम से प्रकाशित है। यह वेब अनुप्रयोगों के लिए `window.speechSynthesis` का संक्षिप्त और टाइप-सुरक्षित आवरण प्रदान करता है।
 
 ## विशेषताएँ
 

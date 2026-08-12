@@ -10,7 +10,7 @@ Eine kleine TypeScript-Bibliothek zum Ermitteln, Auswählen und Steuern von Stim
 
 ## Überblick
 
-Voice TTS stellt eine kompakte, typisierte Abstraktion für `window.speechSynthesis` in Webanwendungen bereit.
+Voice TTS wird auf npm als [`voice-tts`](https://www.npmjs.com/package/voice-tts) veröffentlicht. Die Bibliothek stellt eine kompakte, typisierte Abstraktion für `window.speechSynthesis` in Webanwendungen bereit.
 
 ## Funktionen
 

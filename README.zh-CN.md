@@ -10,7 +10,7 @@
 
 ## 概述
 
-Voice TTS 为 Web 应用提供简洁且类型安全的 `window.speechSynthesis` 封装。
+Voice TTS 以 [`voice-tts`](https://www.npmjs.com/package/voice-tts) 的名称发布在 npm。它为 Web 应用提供简洁且类型安全的 `window.speechSynthesis` 封装。
 
 ## 功能
 

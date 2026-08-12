@@ -10,7 +10,7 @@
 
 ## Обзор
 
-Voice TTS предоставляет компактную типизированную обёртку над `window.speechSynthesis` для браузерных приложений.
+Voice TTS опубликован в npm как пакет [`voice-tts`](https://www.npmjs.com/package/voice-tts). Библиотека предоставляет компактную типизированную обёртку над `window.speechSynthesis` для браузерных приложений.
 
 ## Возможности
 

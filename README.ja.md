@@ -10,7 +10,7 @@
 
 ## 概要
 
-Voice TTSは、Webアプリ向けに`window.speechSynthesis`の簡潔で型安全なラッパーを提供します。
+Voice TTSはnpmで[`voice-tts`](https://www.npmjs.com/package/voice-tts)として公開されています。Webアプリ向けに`window.speechSynthesis`の簡潔で型安全なラッパーを提供します。
 
 ## 機能
 

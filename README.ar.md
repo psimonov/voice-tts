@@ -12,7 +12,7 @@
 
 ## نظرة عامة
 
-توفر Voice TTS غلافاً موجزاً وآمن الأنواع حول `window.speechSynthesis` لتطبيقات الويب.
+تُنشر Voice TTS على npm باسم [`voice-tts`](https://www.npmjs.com/package/voice-tts). وتوفر غلافاً موجزاً وآمن الأنواع حول `window.speechSynthesis` لتطبيقات الويب.
 
 ## الميزات
 

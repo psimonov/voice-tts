@@ -1,6 +1,6 @@
 {
   "name": "voice-tts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Typed browser text-to-speech voice management library",
   "author": "Pavel Simonov",
   "license": "MIT",

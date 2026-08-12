@@ -10,7 +10,7 @@
 
 ## 개요
 
-Voice TTS는 웹 애플리케이션을 위해 `window.speechSynthesis`를 간결하고 타입 안전하게 감쌉니다.
+Voice TTS는 npm에 [`voice-tts`](https://www.npmjs.com/package/voice-tts)로 게시됩니다. 웹 애플리케이션을 위해 `window.speechSynthesis`를 간결하고 타입 안전하게 감쌉니다.
 
 ## 기능
 

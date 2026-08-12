@@ -10,7 +10,7 @@ Una pequeña biblioteca TypeScript para descubrir, seleccionar y controlar voces
 
 ## Descripción general
 
-Voice TTS proporciona una envoltura compacta y tipada sobre `window.speechSynthesis` para aplicaciones web.
+Voice TTS se publica en npm como [`voice-tts`](https://www.npmjs.com/package/voice-tts). Proporciona una envoltura compacta y tipada sobre `window.speechSynthesis` para aplicaciones web.
 
 ## Funciones
 
