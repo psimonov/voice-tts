@@ -4,6 +4,8 @@
 
 ---
 
+[![versione npm](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![download npm](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
+
 Una piccola libreria TypeScript per individuare, selezionare e controllare le voci tramite la Web Speech API del browser.
 
 ## Panoramica

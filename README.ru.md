@@ -4,6 +4,8 @@
 
 ---
 
+[![версия npm](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![загрузки npm](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
+
 Небольшая TypeScript-библиотека для поиска, выбора и управления синтезом речи через браузерный Web Speech API.
 
 ## Обзор

@@ -4,6 +4,8 @@
 
 ---
 
+[![npm 版本](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![npm 下载量](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
+
 一个通过浏览器 Web Speech API 发现、选择和控制语音的小型 TypeScript 库。
 
 ## 概述

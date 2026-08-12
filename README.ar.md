@@ -4,6 +4,8 @@
 
 ---
 
+[![إصدار npm](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![تنزيلات npm](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
+
 <div dir="rtl">
 
 مكتبة TypeScript صغيرة لاكتشاف الأصوات واختيارها والتحكم بها عبر Web Speech API في المتصفح.

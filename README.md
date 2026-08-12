@@ -1,14 +1,16 @@
 # Voice TTS
 
-English · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+English · [Español](https://github.com/psimonov/voice-tts/blob/main/README.es.md) · [Français](https://github.com/psimonov/voice-tts/blob/main/README.fr.md) · [Português](https://github.com/psimonov/voice-tts/blob/main/README.pt.md) · [Deutsch](https://github.com/psimonov/voice-tts/blob/main/README.de.md) · [Italiano](https://github.com/psimonov/voice-tts/blob/main/README.it.md) · [Русский](https://github.com/psimonov/voice-tts/blob/main/README.ru.md) · [简体中文](https://github.com/psimonov/voice-tts/blob/main/README.zh-CN.md) · [हिन्दी](https://github.com/psimonov/voice-tts/blob/main/README.hi.md) · [العربية](https://github.com/psimonov/voice-tts/blob/main/README.ar.md) · [日本語](https://github.com/psimonov/voice-tts/blob/main/README.ja.md) · [한국어](https://github.com/psimonov/voice-tts/blob/main/README.ko.md)
 
 ---
+
+[![npm version](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![npm downloads](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
 
 A small TypeScript library for discovering, selecting, and controlling text-to-speech voices through the browser Web Speech API.
 
 ## Overview
 
-Voice TTS wraps `window.speechSynthesis` in a compact class. It is intended for browser applications that need typed voice discovery and common speech controls without implementing Web Speech API lifecycle handling directly.
+Voice TTS is published on npm as [`voice-tts`](https://www.npmjs.com/package/voice-tts). It wraps `window.speechSynthesis` in a compact class for browser applications that need typed voice discovery and common speech controls without implementing Web Speech API lifecycle handling directly.
 
 ## Features
 

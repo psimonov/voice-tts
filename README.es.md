@@ -1,8 +1,10 @@
 # Voice TTS
 
-[English](README.md) · Español · [Français](README.fr.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [简体中文](README.zh-CN.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+[English](https://github.com/psimonov/voice-tts#readme) · Español · [Français](https://github.com/psimonov/voice-tts/blob/main/README.fr.md) · [Português](https://github.com/psimonov/voice-tts/blob/main/README.pt.md) · [Deutsch](https://github.com/psimonov/voice-tts/blob/main/README.de.md) · [Italiano](https://github.com/psimonov/voice-tts/blob/main/README.it.md) · [Русский](https://github.com/psimonov/voice-tts/blob/main/README.ru.md) · [简体中文](https://github.com/psimonov/voice-tts/blob/main/README.zh-CN.md) · [हिन्दी](https://github.com/psimonov/voice-tts/blob/main/README.hi.md) · [العربية](https://github.com/psimonov/voice-tts/blob/main/README.ar.md) · [日本語](https://github.com/psimonov/voice-tts/blob/main/README.ja.md) · [한국어](https://github.com/psimonov/voice-tts/blob/main/README.ko.md)
 
 ---
+
+[![versión npm](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![descargas npm](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
 
 Una pequeña biblioteca TypeScript para descubrir, seleccionar y controlar voces mediante la Web Speech API del navegador.
 

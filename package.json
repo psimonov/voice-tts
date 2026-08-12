@@ -1,14 +1,14 @@
 {
   "name": "voice-tts",
-  "version": "1.0.1",
-  "description": "Universal Text-to-Speech voice management library",
+  "version": "1.0.2",
+  "description": "Typed browser text-to-speech voice management library",
   "author": "Pavel Simonov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psimonov/voice-tts.git"
+    "url": "git+https://github.com/psimonov/voice-tts.git"
   },
-  "homepage": "https://github.com/psimonov",
+  "homepage": "https://github.com/psimonov/voice-tts#readme",
   "bugs": {
     "url": "https://github.com/psimonov/voice-tts/issues"
   },
@@ -52,8 +52,5 @@
     "rimraf": "^6.0.1",
     "typescript": "^5.9.2"
   },
-  "peerDependencies": {},
-  "engines": {
-    "node": ">=14.0.0"
-  }
+  "peerDependencies": {}
 }

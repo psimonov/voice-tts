@@ -4,6 +4,8 @@
 
 ---
 
+[![npmバージョン](https://img.shields.io/npm/v/voice-tts)](https://www.npmjs.com/package/voice-tts) [![npmダウンロード](https://img.shields.io/npm/dm/voice-tts)](https://www.npmjs.com/package/voice-tts)
+
 ブラウザーのWeb Speech APIを使って音声を検出・選択・制御する小さなTypeScriptライブラリです。
 
 ## 概要
